@@ -1,0 +1,15 @@
+C:\Users\Fatma\Desktop\KNN Pattern Project\KNN Pattern Project\bin\Debug\KNN Pattern Project.exe.config
+C:\Users\Fatma\Desktop\KNN Pattern Project\KNN Pattern Project\obj\Debug\KNN Pattern Project.csprojResolveAssemblyReference.cache
+C:\Users\Fatma\Desktop\KNN Pattern Project\KNN Pattern Project\obj\Debug\KNN_Pattern_Project.Form1.resources
+C:\Users\Fatma\Desktop\KNN Pattern Project\KNN Pattern Project\obj\Debug\KNN_Pattern_Project.Properties.Resources.resources
+C:\Users\Fatma\Desktop\KNN Pattern Project\KNN Pattern Project\obj\Debug\KNN Pattern Project.csproj.GenerateResource.Cache
+C:\Users\Fatma\Desktop\KNN Pattern Project\KNN Pattern Project\bin\Debug\KNN Pattern Project.exe
+C:\Users\Fatma\Desktop\KNN Pattern Project\KNN Pattern Project\bin\Debug\KNN Pattern Project.pdb
+C:\Users\Fatma\Desktop\KNN Pattern Project\KNN Pattern Project\obj\Debug\KNN Pattern Project.exe
+C:\Users\Fatma\Desktop\KNN Pattern Project\KNN Pattern Project\obj\Debug\KNN Pattern Project.pdb
+D:\College\study\4th year\Speech Recognition\Final Project-20161208T094321Z\KNN Pattern Project\KNN Pattern Project\bin\Debug\KNN Pattern Project.exe.config
+D:\College\study\4th year\Speech Recognition\Final Project-20161208T094321Z\KNN Pattern Project\KNN Pattern Project\obj\Debug\KNN Pattern Project.exe
+D:\College\study\4th year\Speech Recognition\Final Project-20161208T094321Z\KNN Pattern Project\KNN Pattern Project\obj\Debug\KNN Pattern Project.pdb
+D:\College\study\4th year\1st Term\Speech Recognition\Final Project-20161208T094321Z\KNN Pattern Project\KNN Pattern Project\bin\Debug\KNN Pattern Project.exe.config
+D:\College\study\4th year\1st Term\Speech Recognition\Final Project-20161208T094321Z\KNN Pattern Project\KNN Pattern Project\obj\Debug\KNN Pattern Project.exe
+D:\College\study\4th year\1st Term\Speech Recognition\Final Project-20161208T094321Z\KNN Pattern Project\KNN Pattern Project\obj\Debug\KNN Pattern Project.pdb
